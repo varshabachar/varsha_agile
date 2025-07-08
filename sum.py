@@ -4,4 +4,3 @@ c=5
 d=6
 e=a+b+c+d
 print (e)
-y
